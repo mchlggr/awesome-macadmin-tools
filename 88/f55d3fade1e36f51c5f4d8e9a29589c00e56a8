@@ -1,0 +1,20 @@
+readme.md
+  s_cf3c9812e7fc2c::t_842db071366a05 415-416
+  s_cf3c9812e7fc2c::t_517dba73c77ff2 407-414
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "88f55d3fade1e36f51c5f4d8e9a29589c00e56a8",
+  "prompts": {},
+  "sessions": {
+    "s_cf3c9812e7fc2c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3d22-876f-7442-961e-bb24e65d0362",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Michael Geiger <michaelgeiger@hey.com>"
+    }
+  }
+}
