@@ -406,7 +406,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### OATS
 
-> Open-source macOS menu bar app for live meeting transcription, speaker labels, and AI summaries, with an offline on-device mode.
+> Open-source local-first macOS meeting-notes app with live meeting transcription, speaker labels, and AI summaries, with an offline on-device mode.
 
 **Cost:** Free
 
